@@ -1,0 +1,184 @@
+/*Header*/
+.fa-sign-in-alt{
+	color: #FF7F00;
+}
+.fa-mobile {
+	color: #FF7F00;
+}
+.fa-envelope{
+	color: #FF7F00;
+}
+.fa-search{
+	color: #FF7F00;
+}
+
+.nav  li  a{
+	color: #fff;
+	font-size: 20px;
+	margin-left: 10px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.nav  li  a:hover{
+	color: black;
+}
+.Header{
+	background-color: rgba(82,64,120,0.9) !important;
+}
+.navbar h2{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+}
+.dropdown{
+	position: relative;
+	display: inline-block;
+}
+
+.submenu{
+	display: none;
+	position: absolute;
+	z-index: 1;
+}
+
+.navbar-nav a{
+	padding: 10px; 
+	
+}
+
+.hidden{
+	border-left: 1px solid #fff;
+}
+.fa-heart{
+	color: #FF7F00;
+}
+.fa-user{
+	color: #FF7F00;
+}
+.fa-shopping-cart{
+	color: #FF7F00;
+}
+.navbar-nav a{
+	font-size:1.5em;
+}
+
+/*Tìm Kiếm*/
+
+
+
+/*Carousel*/
+
+.tieude{
+	color:#20B2AA;
+	font-size: 50px; 
+	margin-left: 5px;
+	padding-bottom: 20px;
+}
+
+
+.carousel-inner img{
+	width: 100%;
+	height: 900px;
+	
+}
+
+.carousel-caption h3{
+	text-shadow: 2px 2px 10px #000;
+}
+
+/*Body Sản Phẩm*/
+
+.container-fluid{
+	overflow: hidden;
+}
+.container-fluid img{
+	border-radius: 10%;
+	transition: all 0.5s ease-out;
+	cursor: pointer;
+}
+.container-fluid img:hover{
+	transform: scale(1.2);
+}
+.ke {
+	border-top: 5px solid rgb(62,44,100, 0.5);
+	width: 95%;
+	margin-bottom: 2rem;
+}
+
+.welcome h1{
+	font-family: tahoma; 
+}
+.welcome hr{
+	border-top: 2px solid rgb(62,44,100, 0.6);
+	width: 60%;
+	margin-bottom: 2rem;
+}
+
+
+/*Body Liên hệ*/
+
+.social{
+	overflow: hidden;
+}
+.social a{
+	font-size:3em;
+	padding:3rem;
+}
+.social i{
+	transition: all 0.3s ease-out;
+	cursor: pointer;
+}
+.social i:hover{
+	transform: scale(1.2);
+}
+.fa-facebook{
+	color: #3b5998;
+
+}
+.fa-twitter{
+	color: #00aced;
+}
+.fa-google-plus-g{
+	color: #dd4b39;
+}
+.fa-instagram{
+	color: #517fa4;
+}
+.fa-youtube{
+	color: #F10404;
+}
+
+/*Footer*/
+
+footer{
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+}
+footer h5{
+	margin-top: 20px;
+}
+.row img{
+	margin-top: 10px;
+}
+.light-100{
+	border-top: 1px solid #d5d5d5;
+	width: 100%;
+}
+form{
+	margin-left: 50px;
+}
+
+/*Media Query*/
+@media (max-width: 992px) {
+	
+}
+@media(max-width: 768px) {
+
+}
+@media (max-width: 576px){
+
+}
+
+
+
+
+		
